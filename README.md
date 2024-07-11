@@ -17,7 +17,7 @@ A Flask web application that classifies SMS messages as spam or ham using a Naiv
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sms-classifier-tool.git
+    git clone https://github.com/ivarungupta/sms-classifier-tool.git
     cd sms-classifier-tool
     ```
 
@@ -72,6 +72,5 @@ The model achieves an accuracy of approximately 98% on the test dataset. Detaile
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue to improve the project.
 
-## License
+## Thanks!!
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
