@@ -72,5 +72,5 @@ The model achieves an accuracy of approximately 98% on the test dataset. Detaile
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue to improve the project.
 
-## Thanks!!!!!
+## Thanks!!!!!!
 
